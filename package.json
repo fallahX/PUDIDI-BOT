@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fallahX/PUDIDI-BOT"
+    "url": "https://github.com/fallahX/PUDIDI-BOT"
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "FALLAH",
   "license": "ISC",
   "bugs": {
-    "url": "https"//github.com/fallahX/PUDIDI-BOT/issues"
+    "url": "https" "https://github.com/fallahX/PUDIDI-BOT/issues"
   },
   "homepage": "https://github.com/fallahX/PUDIDI-BOT#readme"
 }
