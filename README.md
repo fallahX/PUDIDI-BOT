@@ -1,78 +1,70 @@
-# 🤖Naga-Bot🤖
-BOT WHATSAPP TERMUX ONLY BY Naga-Bot
+•••PUDIDI-BOT•••
+BOT WHATSAPP TERMUX ONLY BY PUDIDI-BOT
 
-### Alat dan Bahan
-Siapin alat dan bahannya.
-```bash
+
+•••YANG HARUS DI PERSIAPKAN•••
 > niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
-> aplikasi whatsapp
-> jika error hubungi 088235435804
-> aplikasi termux
-> kopi nya diminum..
-```
+> 2 HANDPHONE (1 UNTUK JALANKAN BOT, 1 UNTUK SCAN QR)
+> JARINGAN/WIFI/DATA
+> JANGAN SAMPE SALAH/TERLUPA/TERLEWAT SAAT KETIK COMMAND
+> APLIKASI WHATSAPP BISNIS
+> APLIKASI TERMUX 
 
-### Cara Installnya
+•••HOW TO INSTALL PUDIDI-BOT•••
 
-```bash
-> kalo lu belum punya apk termux, download di playstore !
-> masuk ke apk termux lalu ketik dibawah ini!
+> DOWNLOAD APK TERMUX (PLAYSTORE)
+> OPEN TERMUX LALU KETIK COMMAND (SEMUA COMMAND KETIKAN HURUF KECIL)
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/fallahX/PUDIDI-BOT
+> cd PUDIDI-BOT
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
-> Tinggal scan kode qr ya cuy...done cuk
-```
+> SETELAH SEMUA COMMAND SELESAI TINGGAL SCAN QR 
 
 ## Features
 
-| Naga-Bot🤖  |                   Feature        |
+| PUDIDI-BOT |                   FITUR FITUR       |
 | :-----------: | :------------------------------: |
-|       ✅       | Sticker Creator                  |
-|       ✅       | Nulis                           |
-|       ✅       | Covid (new)                      |
-|       ✅       | Alay (new)                       |
-|       ✅       | Lirik (new)                      |
-|       ✅       | Foto Anime                       |
-|       ✅       | Foto cewek/cowok (new)           |
-|       ✅       | Pantun                           |
-|       ✅       | Youtube Downloader               |
-|       ✅       | Quotes                           |
-|       ✅       | Nama (new)                       |
-|       ✅       | Foto Anime                       |
-|       ✅       | Pasangan (new)                   |
-|       ✅       | Sholat (new )                    |
-|       ✅       | Suara Google (fix)               |
-|       ✅       | Quran                            |
-|       ✅       | Youtube MP3 Downloader           |
-|       ✅       | Intagram Downloader              |
-|       ✅       | Twitter Downloader               |
-|       ✅       | Facebook Downloader              |
-|       ✅       | TikTok Downloader  (new)         |
-|       ✅       | Wikipedia                        |
-|       ✅       | Say                              |
-|       ✅       | Toxic (new)                      |
-|       ✅       | loli                             |
-|       ✅       | hentai                           |
-|       ✅       | Owner (new)                      |
-|       ✅       | kata bijak                       |
-|       ✅       | Fakta                            |
-|       ✅       | Pokemon                          |
-|       ✅       | Info                             |
-|       ✅       | Donate                           |
+|       ✅       | STICKER CREATOR                  |
+|       ✅       | NULIS                           |
+|       ✅       | COVID (new)                      |
+|       ✅       | ALAY (new)                       |
+|       ✅       | LIRIK (new)                      |
+|       ✅       | FOTO ANIME                       |
+|       ✅       | FOTO CEWEK/COWOK (new)           |
+|       ✅       | PANTUN                          |
+|       ✅       | YOUTUBE DOWNLOADER              |
+|       ✅       | QUOTES                           |
+|       ✅       | NAMA (new)                       |
+|       ✅       | FOTO ANIME                       |
+|       ✅       | PASANGAN (new)                   |
+|       ✅       | SHOLAT (new )                    |
+|       ✅       | SUARA GOOGLE  (fix)               |
+|       ✅       | QURAN                            |
+|       ✅       | YOUTUBE MP3 DOWNLOADER         |
+|       ✅       | INSTAGRAM DOWNLOADER           |
+|       ✅       | TWITTER DOWNLOADER              |
+|       ✅       | FACEBOOK DOWNLOADER             |
+|       ✅       | TIKTOK DOWNLOADER  (new)         |
+|       ✅       | WIKIPEDIA                        |
+|       ✅       | SAY                              |
+|       ✅       | TOXIC (new)                      |
+|       ✅       | LOLI                            |
+|       ⛔       | hentai                           |
+|       ✅       | OWNER (new)                      |
+|       ✅       | KATA BIJAK                       |
+|       ✅       | FAKTA                           |
+|       ✅       | POKEMON                         |
+|       ✅       | INFO                             |
+|       ✅       | DONATE                         |
 |                   MORE                           |
 
-Ket: Aktiv 24 jam
-Jika ada kendala hubungi kami..
+Ket: BOT AKTIV SELAMA ADA JARINGAN!!!
+ENJOY PUDIDI-BOT
 
-## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
+•••BACA!!•••
+BOT INI KHUSUS HP/TERMUX
 
-## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UC0KCrPNyL-E7NZIp2l3mZLQ) 
-* [`Instagram Admin`](https://instagram.com/fws_grup)
-* [`WhatsApp Admin `](https://wa.me/6281357302007)
+•EHANGANSS
+•DIMASSAID
