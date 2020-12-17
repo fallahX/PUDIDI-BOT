@@ -1,3 +1,5 @@
+•••CARA INSTALL PUDIDI-BOT•••
+
 apt update
 apt upgrade
 apt install
@@ -9,3 +11,5 @@ npm i -g cwebp
 npm i -g ytdl 
 npm i
 npm i got
+
+•••KHUSUS TERMUX•••
