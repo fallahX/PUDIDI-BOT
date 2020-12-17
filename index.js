@@ -784,7 +784,9 @@ if (text.includes(".alay")){
 	})
 }
 
-
+'}'
 
 })
+
+
 
