@@ -11,6 +11,7 @@ BOT WHATSAPP TERMUX ONLY BY PUDIDI-BOT
 > APLIKASI TERMUX 
 
 •••HOW TO INSTALL PUDIDI-BOT•••
+
 ```bash
 
 > DOWNLOAD APK TERMUX (PLAYSTORE)
@@ -25,41 +26,41 @@ BOT WHATSAPP TERMUX ONLY BY PUDIDI-BOT
 
 ## Features
 
-| PUDIDI-BOT |                   FITUR FITUR       |
-| :-----------: | :------------------------------: |
+| PUDIDI-BOT |                   FITUR FITUR        |
+| :-----------:  | :------------------------------: |
 |       ✅       | STICKER CREATOR                  |
-|       ✅       | NULIS                           |
+|       ✅       | NULIS                            |
 |       ✅       | COVID (new)                      |
 |       ✅       | ALAY (new)                       |
 |       ✅       | LIRIK (new)                      |
 |       ✅       | FOTO ANIME                       |
 |       ✅       | FOTO CEWEK/COWOK (new)           |
-|       ✅       | PANTUN                          |
-|       ✅       | YOUTUBE DOWNLOADER              |
+|       ✅       | PANTUN                           |
+|       ✅       | YOUTUBE DOWNLOADER               |
 |       ✅       | QUOTES                           |
 |       ✅       | NAMA (new)                       |
 |       ✅       | FOTO ANIME                       |
 |       ✅       | PASANGAN (new)                   |
 |       ✅       | SHOLAT (new )                    |
-|       ✅       | SUARA GOOGLE  (fix)               |
+|       ✅       | SUARA GOOGLE  (fix)              |
 |       ✅       | QURAN                            |
-|       ✅       | YOUTUBE MP3 DOWNLOADER         |
-|       ✅       | INSTAGRAM DOWNLOADER           |
-|       ✅       | TWITTER DOWNLOADER              |
-|       ✅       | FACEBOOK DOWNLOADER             |
+|       ✅       | YOUTUBE MP3 DOWNLOADER           |
+|       ✅       | INSTAGRAM DOWNLOADER             |
+|       ✅       | TWITTER DOWNLOADER               |
+|       ✅       | FACEBOOK DOWNLOADER              |
 |       ✅       | TIKTOK DOWNLOADER  (new)         |
 |       ✅       | WIKIPEDIA                        |
 |       ✅       | SAY                              |
 |       ✅       | TOXIC (new)                      |
-|       ✅       | LOLI                            |
+|       ✅       | LOLI                             |
 |       ⛔       | hentai                           |
 |       ✅       | OWNER (new)                      |
 |       ✅       | KATA BIJAK                       |
-|       ✅       | FAKTA                           |
-|       ✅       | POKEMON                         |
+|       ✅       | FAKTA                            |
+|       ✅       | POKEMON                          |
 |       ✅       | INFO                             |
-|       ✅       | DONATE                         |
-|                   MORE                           |
+|       ✅       | DONATE                           |
+|                |  MORE                            |
 
 Ket: BOT AKTIV SELAMA ADA JARINGAN!!!
 ENJOY PUDIDI-BOT
